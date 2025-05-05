@@ -7,7 +7,7 @@ export default function Hero() {
       style={{ backgroundImage: `url(${bgHero})` }}
       className="h-[800px] bg-no-repeat bg-cover bg-center py-20"
     >
-      <div className="lg:p-0 flex justify-around h-full">
+      <div className="lg:p-0 p-8 flex justify-around h-full">
         <div className="flex flex-col justify-center">
           <div className="font-semibold flex items-center -mt-52 uppercase">
             <div className="w-10 h-[2px] mr-3 bg-cyan-700"></div>Hot Trend
